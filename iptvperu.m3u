@@ -81,44 +81,17 @@ http://168.181.122.234:8000/play/a00w/index.m3u8
 #EXTINF:-1 tvg-id="lch2229" tvg-name="UNIVERSAL CHANNEL" group-title="Peliculas & Series" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/Universal-TV.png", UNIVERSAL CHANNEL HD
 http://138.186.20.13:23200/play/a0ff
 
-#EXTINF:-1 tvg-id="lch2221" tvg-name="TNT" group-title="Peliculas & Series" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/tnt.png", TNT HD
-http://190.119.178.46:8000/play/a00i/index.m3u8
-
-#EXTINF:-1 tvg-id="lch2224" tvg-name="TNT SERIES HD" group-title="Peliculas & Series" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/TNT-SERIES.png", TNT SERIES HD
-http://190.119.178.46:8000/play/a03c/index.m3u8
-
-#EXTINF:-1 tvg-id="lch6490" tvg-name="HBO" group-title="Peliculas & Series" tvg-logo="https://logowik.com/content/uploads/images/hbo.jpg", HBO HD
-http://190.119.178.46:8000/play/a00v/index.m3u8
-
 #EXTINF:-1 tvg-id="lch6491" tvg-name="HBO 2" group-title="Peliculas & Series" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/hbo-2.png", HBO 2 HD
 http://168.181.122.234:8000/play/a02p/index.m3u8
 
 #EXTINF:-1 tvg-id="lch6493" tvg-name="HBO FAMILY" group-title="Peliculas & Series" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/hbo-family.png", HBO FAMILY HD
 http://168.181.122.234:8000/play/a02r/index.m3u8
 
-#EXTINF:-1 tvg-id="lch6496" tvg-name="HBO XTREME" group-title="Peliculas & Series" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/HBO-EXTREME.png", HBO EXTREME HD
-http://190.119.178.46:8000/play/a01h/index.m3u8
-
-#EXTINF:-1 tvg-id="lch6494" tvg-name="HBO POP" group-title="Peliculas & Series" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/HBO-POP.png", HBO POP HD
-https://nani.nottie-sux.online/live/Demon/DarkStar666/1.m3u8
-
-#EXTINF:-1 tvg-id="lch2239" tvg-name="SPACE" group-title="Peliculas & Series" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/032013/untitled-1_146.png", SPACE HD
-http://190.119.178.46:8000/play/a01r/index.m3u8
-
-#EXTINF:-1 tvg-id="lch2249" tvg-name="CINECANAL" group-title="Peliculas & Series" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/cinecanal.png", CINECANAL HD
-http://190.119.178.46:8000/play/a03b/index.m3u8
-
 #EXTINF:-1 tvg-id="lch2333" tvg-name="PARAMOUNT HD" group-title="Peliculas & Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Paramount_Pictures_Corporation_logo.svg/1200px-Paramount_Pictures_Corporation_logo.svg.png", PARAMOUNT HD
 http://138.186.20.13:23200/play/a062
 
-#EXTINF:-1 tvg-id="DePeliculaLatinAmerica.mx" tvg-name="De Pelicula Latin America" group-title="Peliculas & Series" tvg-logo="https://seeklogo.com/images/D/de-pelicula-logo-F97A15125D-seeklogo.com.png", DE PELICULA HD
-http://200.115.96.66:4000/play/a0ho/index.m3u8
-
 #EXTINF:-1 tvg-id="lch6518" tvg-name="Tl Novelas" group-title="Peliculas & Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/Logo_tlnovelas_feb2019.png", TL NOVELAS HD
 http://181.78.8.90:16123/play/ch45
-
-#EXTINF:-1 tvg-id="lch2359" tvg-name="MTV HD" group-title="Peliculas & Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/330px-MTV_2021_%28brand_version%29.svg.png", MTV HD
-http://190.119.178.46:8000/play/a01b/index.m3u8
 
 #EXTINF:-1 tvg-id="lch5605" tvg-name="NICKELODEON" group-title="Peliculas & Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/2560px-Nickelodeon_2023_logo_%28outline%29.svg.png", NICKELODEON HD
 http://138.186.20.13:23200/play/a04w
@@ -132,17 +105,11 @@ http://200.115.96.66:4000/play/a0ja/index.m3u8
 #EXTINF:-1 tvg-id="lch2325" tvg-name="FX HD" group-title="Peliculas & Series" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/022020/fx_logo_thumbnail.jpg", FX HD
 http://200.115.96.66:4000/play/a0he/index.m3u8
 
-#EXTINF:-1 tvg-id="GoldenPremier.mx" tvg-name="Golden Premier" group-title="Peliculas & Series" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/Golden_premier.png", GOLDEN PREMIER HD
-http://138.186.20.13:23200/play/a06k
-
 #EXTINF:-1 tvg-id="1#STUDIOUNIVERSAL" tvg-name="STUDIO UNIVERSAL" group-title="Peliculas & Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/StudioUniversal2016.png", STUDIO UNIVERSAL HD
 http://138.186.20.13:23200/play/a063
 
 #EXTINF:-1 tvg-id="pe#fox" tvg-name="Star Channel" group-title="Peliculas & Series" tvg-logo="https://seeklogo.com/images/S/star-channel-logo-21915A5369-seeklogo.com.png", STAR CHANNEL HD
 http://138.186.20.13:23200/play/a04v
-
-#EXTINF:-1 tvg-id="lch2225" tvg-name="SONY" group-title="Peliculas & Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png", SONY CHANNEL HD
-http://138.186.20.13:23200/play/a0ee
 
 #EXTINF:-1 tvg-id="DTV.SPORTS1" tvg-name="DIRECTV SPORTS 1" group-title="AMERICA & EURO CUP" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/DirecTV_Sports_Latin_America_-_2018_logo_v2.png", DIRECTV SPORTS HD
 http://181.78.106.127:9000/play/ca026/index.m3u8
@@ -150,23 +117,14 @@ http://181.78.106.127:9000/play/ca026/index.m3u8
 #EXTINF:-1 tvg-id="DTV.SPORTS1" tvg-name="DIRECTV SPORTS 1" group-title="AMERICA & EURO CUP" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/DirecTV_Sports_Latin_America_-_2018_logo_v2.png", DIRECTV SPORTS ARG HD OP2
 http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/4668.m3u8
 
-#EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDN" group-title="AMERICA & EURO CUP" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2022/09/TUDN-Me%CC%81xico-en-vivo-Online.png", TUDN MX
-http://200.115.96.66:4000/play/a0dn/index.m3u8
-
-#EXTINF:-1 tvg-id="TUDN.us" tvg-name="TUDN" group-title="AMERICA & EURO CUP" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2022/09/TUDN-Me%CC%81xico-en-vivo-Online.png", TUDN Latam
-http://fortv.cc:8080/0927216/5292163/21644
-
-#EXTINF:-1 tvg-id="us#69037946/univision-network-hdtv" tvg-name="Univision Network HDTV" group-title="AMERICA & EURO CUP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1200px-Logo_Univision_2019.svg.png", Univisión US (ESP)
-http://fortv.cc:8080//live/0927216/5292163/15336.m3u8
-
 #EXTINF:-1 tvg-id="PlutoTVToonsClasico.es",Pluto TV Toons Clásico (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609e7e423e9173000706a681/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 #EXTINF:-1 tvg-id="lch2357" tvg-name="DISNEY XD" group-title="Peliculas & Series" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/Disney_Channel_logo.png", DISNEY CHANNEL HD
 http://178.219.128.68:64888/DISNXD
 
-#EXTINF:-1,BOB ESPONJA
+#EXTINF:-1,tvg-id="lch2357" tvg-name="BOB ESPONJA" group-title="Peliculas & Series" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/Disney_Channel_logo.png", DISNEY CHANNEL HD
 https://stitcher.pluto.tv/stitch/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6eecb5c0-7b19-11eb-a635-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
-#EXTINF:-1,Nat Geo Wild
+#EXTINF:-1,tvg-id="lch2357" tvg-name="Nat Geo" group-title="Peliculas & Series" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/Disney_Channel_logo.png", DISNEY CHANNEL HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55611&extension=ts&play_token=ltn2GgE1z6
