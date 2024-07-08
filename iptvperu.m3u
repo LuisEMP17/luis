@@ -36,10 +36,10 @@ http://200.60.124.19:29000/play/a00b/index.m3u8
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-name="TyC Sports" group-title="Deportes" tvg-logo="https://cdn6.aptoide.com/imgs/8/5/b/85b6f639ad769d64a08e82d7a8079fa8_icon.png", TyC SPORTS
 http://45.232.176.17:8000/play/a02g
 
-#EXTINF:-1 tvg-id="LigadeCampeonesporMovistarPlusPlus.es" tvg-name="Liga de Campeones por Movistar Plus+" group-title="Deportes Extranjeros" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg/2560px-Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg.png", M+ LIGA DE CAMPEONES 1 OP1 | ESP
+#EXTINF:-1 tvg-id="adeCampeonesporMovistarPlusPlus.es" tvg-name="a de Campeones por Movistar Plus+" group-title="Deportes Extranjeros" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/a_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg/2560px-a_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg.png", M+ A DE CAMPEONES 1 OP1 | ESP
 http://zfpgnap.mexamo.xyz//live/7921751389/6097373662/165968.m3u8
 
-#EXTINF:-1 tvg-id="LigadeCampeonesporMovistarPlusPlus.es" tvg-name="Liga de Campeones por Movistar Plus+" group-title="Deportes Extranjeros" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg/2560px-Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg.png", M+ LIGA DE CAMPEONES 1 OP2 | ESP
+#EXTINF:-1 tvg-id="adeCampeonesporMovistarPlusPlus.es" tvg-name="a de Campeones por Movistar Plus+" group-title="Deportes Extranjeros" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/a_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg/2560px-a_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg.png", M+ A DE CAMPEONES 1 OP2 | ESP
 http://gzrqxpw.mexamo.xyz//live/1002378585/7057806128/401188655.m3u8
 
 #EXTINF:-1 tvg-id="ufc.fight.pass" tvg-name="UFC FIGHT PASS" group-title="Deportes Extranjeros" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/ufc-fight-pass.png", UFC FIGHT PASS HD OP1 | US
@@ -123,8 +123,32 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609e7e423
 #EXTINF:-1 tvg-id="lch2357" tvg-name="DISNEY XD" group-title="Peliculas & Series" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/Disney_Channel_logo.png", DISNEY CHANNEL HD
 http://178.219.128.68:64888/DISNXD
 
-#EXTINF:-1,tvg-id="lch2357" tvg-name="BOB ESPONJA" group-title="Peliculas & Series" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/Disney_Channel_logo.png", DISNEY CHANNEL HD
+#EXTINF:-1,tvg-id="lch2357" tvg-name="BOB ESPONJA" group-title="Peliculas & Series" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/Disney_Channel_logo.png", BOB ESPONJA
 https://stitcher.pluto.tv/stitch/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6eecb5c0-7b19-11eb-a635-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
-#EXTINF:-1,tvg-id="lch2357" tvg-name="Nat Geo" group-title="Peliculas & Series" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/Disney_Channel_logo.png", DISNEY CHANNEL HD
+#EXTINF:-1,tvg-id="lch2357" tvg-name="Nat Geo" group-title="Peliculas & Series" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/Disney_Channel_logo.png", NAT GEO
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55611&extension=ts&play_token=ltn2GgE1z6
+
+#EXTINF:-1 tvg-id="HISTORY CHANNEL.pe" tvg-name="LA: History Channel" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/History_2021.webp" group-title="Cultura",History Channel
+http://flx.lat:8080/live/RRaJvLYQhYmQ/YHfWF7KNjEuW/119683.ts
+
+#EXTINF:-1 tvg-id="HISTORY 2.pe" tvg-name="LA: History 2" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/History2_logo.png" group-title="Cultura",History 2
+http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/53483
+
+#EXTINF:-1 tvg-id="ANIMAL PLANET HD.pe" tvg-name="LA: Animal Planet" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Animal_Planet_2018.png" group-title="Cultura",Animal Planet
+http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/312747
+
+#EXTINF:-1 tvg-id="DISCOVERY CHANNEL.pe" tvg-name="LA: Discovery Channel" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Discovery_Channel_2019.png" group-title="Cultura",Discovery Channel
+http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/312768
+
+#EXTINF:-1 tvg-id="TNT HD.pe" tvg-name="LA: TNT" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/TNT_2016.png" group-title="Cine",TNT
+http://goldfull.pro:8880/pnvmr8p946/DA7dLuQFsUKv/318658
+
+#EXTINF:-1 tvg-id="CINECANAL HD.pe" tvg-name="LA: Cinecanal" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Cinecanal_2018.png" group-title="Cine",Cinecanal
+http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/312763
+
+#EXTINF:-1 tvg-id="DISCOVERY KIDS HD.pe" tvg-name="LA: Discovery Kids" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Discovery_Kids_2021.png" group-title="Infantil",Discovery Kids
+http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/312769
+
+#EXTINF:-1 tvg-id="DisneyJr.lat" tvg-name="LA: Disney Jr" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Disney_Junior_2020.webp" group-title="Infantil",Disney Jr
+http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/312775
