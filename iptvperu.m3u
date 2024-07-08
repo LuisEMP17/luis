@@ -27,6 +27,9 @@ http://138.186.20.13:23200/play/a0fi
 #EXTINF:-1 tvg-id="lch2296" tvg-name="FOX SPORTS 3" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/ESPN-6.png", FOX SPORT 3 / ESPN 6 HD | PE
 http://138.186.20.13:23200/play/a0gb
 
+#EXTINF:-1 tvg-id="lch2336" tvg-name="CINEMAX HD" group-title="Peliculas & Series" tvg-logo="https://e7.pngegg.com/pngimages/946/949/png-clipart-logo-cinemax-television-channel-space-television-text.png", CINEMAX HD
+http://138.186.20.13:23200/play/a05b
+
 #EXTINF:-1 tvg-id="lch2319" tvg-name="GOLPERU HD" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/golperu.png", GOL PERU | PE
 http://200.60.124.19:29000/play/a00b/index.m3u8
 
